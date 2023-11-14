@@ -1,0 +1,5 @@
+class ApexDemo
+int num1 = 10
+int num2 = 22
+sum = num1 + num2
+system.debug("Answer is :",sum );
